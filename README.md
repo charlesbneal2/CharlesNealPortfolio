@@ -10,3 +10,7 @@
 - Built the tool on house sale data compiled from Ames, Iowa from 2006 to 2010. The data were published by Dean De Cock in the Journal of Statistics Education
 - Implemented a multivariate linear regression model with k-fold cross validation
 
+## [Project 3: Predicting Bike Rentals](https://github.com/charlesbneal2/Predicting_Bike_Rentals)
+- Implemented and compared three models to predict number of bike rentals in a given hour: Linear Regressor, Decision Tree Regressor, and Random Forest Regressor
+- With 14 numeric features and simple holdout validation, determined that Random Forest Regressor was the best model with lowest root mean squared error (~45 bikes)
+
