@@ -14,3 +14,7 @@
 - Implemented and compared three models to predict number of bike rentals in a given hour: Linear Regressor, Decision Tree Regressor, and Random Forest Regressor
 - With 14 numeric features and simple holdout validation, determined that Random Forest Regressor was the best model with lowest root mean squared error (~45 bikes)
 
+## [Project 4: Handwritten Digit Classifier](https://github.com/charlesbneal2/Handwritten_Digits_Classifier)
+- Compared KNN and neural network models to predict handwritten digits from UCI Machine Learning Repository
+- Optimized parameters for each model to find best performance. Both models converged near 98% accuracy, with the KNN model performing slightly better. 
+
