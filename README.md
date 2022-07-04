@@ -18,3 +18,6 @@
 - Compared KNN and neural network models to predict handwritten digits from UCI Machine Learning Repository
 - Optimized parameters for each model to find best performance. Both models converged near 98% accuracy, with the KNN model performing slightly better. 
 
+## [Project 5: Spam Filter](https://github.com/charlesbneal2/Spam_Filter_Naive_Bayes)
+- Implemented a Naive Bayes algorithm to classify SMS messages as "Spam" or "Ham" with 98% accuracy (20% holdout validation)
+- Trained and tested the algorithm on 5,000+ text messages hosted by UCI Machine Learning Repository
